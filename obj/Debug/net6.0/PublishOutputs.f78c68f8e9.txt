@@ -1,0 +1,5 @@
+D:\Phase 4\Feb 27\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.exe
+D:\Phase 4\Feb 27\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.dll
+D:\Phase 4\Feb 27\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.deps.json
+D:\Phase 4\Feb 27\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.runtimeconfig.json
+D:\Phase 4\Feb 27\ConsoleApp\ConsoleApp\bin\Debug\net6.0\publish\ConsoleApp.pdb
